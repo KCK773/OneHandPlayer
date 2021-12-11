@@ -65,3 +65,8 @@
 </br>
 </br>
 </br>
+### 전체 화면</br>
+![이미지](https://user-images.githubusercontent.com/74527127/145673020-693d4bf6-f93f-4f02-a2ce-4c9e983ea9c1.png)
+</br>
+</br>
+</br>
