@@ -46,3 +46,4 @@
 
   # 프로젝트 화면 설명
   ## 시작화면
+  ![이미지](https://user-images.githubusercontent.com/74527127/145669857-f2f523a6-d88a-4fed-9773-4f420ef27962.png)</br>
