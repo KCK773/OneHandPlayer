@@ -44,6 +44,10 @@
     * 시간대별 썸네일 지원
 
 
-  # 프로젝트 화면 설명
-  ### 시작화면</br>
-  ![이미지](https://user-images.githubusercontent.com/74527127/145669857-f2f523a6-d88a-4fed-9773-4f420ef27962.png)</br>
+# 프로젝트 화면 설명
+### 시작화면</br>
+![이미지](https://user-images.githubusercontent.com/74527127/145669857-f2f523a6-d88a-4fed-9773-4f420ef27962.png)
+</br>
+</br>
+</br>
+### 기본화면</br>
