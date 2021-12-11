@@ -51,4 +51,4 @@
 </br>
 </br>
 ### 기본화면</br>
-![이미지]https://user-images.githubusercontent.com/74527127/145670737-b49cb65d-00c7-4903-93fe-ecb8d22b4fdf.png)
+![이미지](https://user-images.githubusercontent.com/74527127/145670737-b49cb65d-00c7-4903-93fe-ecb8d22b4fdf.png)
